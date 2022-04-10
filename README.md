@@ -4,7 +4,7 @@ A Social Media Blog Rest Api in Node and Express
 # Node-And-Express-Rest-API
 Social Media Blog Rest API 
 
-# SOSMET BACKEND API
+# SOCIAL MEDIA BLOG BACKEND API
 
 ## Overview
 
