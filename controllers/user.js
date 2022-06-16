@@ -58,6 +58,7 @@ const userDetails = async (req, res) => {
       res.status(400).json('user dont exist');
     } else {
       //Extracting User Information without Password
+
       const { password, ...others } = user._doc;
       res.status(200).json(others);
     }

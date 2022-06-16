@@ -1,4 +1,3 @@
-const req = require('express/lib/request');
 const Categories = require('../models/categories');
 
 //Create Categories
